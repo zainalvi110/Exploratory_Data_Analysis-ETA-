@@ -1,4 +1,5 @@
 # Exploratory_Data_Analysis-ETA-
+![EDA](https://cdn.botpenguin.com/assets/website/Exploratory_Data_Analysis_1_5f8a1c6d39.webp)
 
 ## Usage
 
